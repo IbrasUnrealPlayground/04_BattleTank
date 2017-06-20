@@ -1,2 +1,3 @@
 # 04_BattleTank
-Open world 1v1 Tank battle game with some nice controls deved in UE4
+A simple open world 1v1 Tank battle game with some nice controls developed as training for me to learn game development in UE4 using UDEMY online learning.
+C++ is fun and hard 
