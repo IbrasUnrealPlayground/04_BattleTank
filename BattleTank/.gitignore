@@ -75,4 +75,4 @@ Intermediate/*
 DerivedDataCache/*
 
 # Unreal Generated Files
-BattleTank/Content/StarterContent/
+BattleTank/Content/StarterContent/*
